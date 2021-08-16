@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>海洋之心 | 游戏百科</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Description">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <!-- GIF 播放模式 -->
+  <link rel="stylesheet" href="//unpkg.com/docsify-gifcontrol/dist/docsify-gifcontrol.css">
+  <!-- 目录 -->
+  <link rel="stylesheet" href="https://unpkg.com/docsify-toc@1.0.0/dist/toc.css">
+  <!-- 按钮 -->
+  <link rel="stylesheet" href="./assets/style/buttons.css"
+  <!-- 自定义CSS -->
+  <link rel="stylesheet" href="./assets/style/custom.css"
+</head>
+<body>
+  <div id="app"></div>
+  <style>
+    .tab-badge {
+      position: absolute;
+      top: 0;
+      right: 0;
+      transform: translate(35%, -45%);
+      padding: 0.25em 0.35em;
+      border-radius: 3px;
+      background: red;
+      color: white;
+      font-family: sans-serif;
+      font-size: 11px;
+      font-weight: bold;
+    }
+  </style>
+  <script>
+    window.$docsify = {
+      plugins: [
+        function (hook, vm) {
+          // twemoji
+          hook.doneEach(function() {
+              twemoji.parse(document);
+          });
+        },
+      ],
+      name: '海洋之心',
+      repo: '',
+      repo: 'true',
+      homepage: '/welcome/welcome.md',
+      nameLink: '/',
+      topMargin: 90,
+      loadNavbar: true,
+      loadSidebar: true,
+      auto2top: true,
+      // 额外提示语
+      'flexible-alerts': {
+      style: 'flat'
+      },
+      // 选择
+      select: {
+        detectOperatingSystem: {
+          enabled: false,
+          menuId: "operating-system"
+        },
+        sync: false,
+        theme: "classic"
+      },
+      // 上下章节
+      pagination: {
+        previousText: '上一章节',
+        nextText: '下一章节',
+        crossChapter: true,
+        crossChapterText: true,
+      },
+      // 目录
+      toc: {
+        scope: '.markdown-section',
+        headings: 'h1, h2, h3, h4, h5, h6',
+        title: '目录',
+      },
+      // 复制代码配置
+      copyCode: {
+        buttonText: '复制到剪切板',
+        errorText: '错误',
+        successText: '已复制'
+      },
+      // Github 图标配置
+      corner: {
+        // 指向链接 
+        url: "",
+        // 图标内容
+        icon: "github",
+      },
+      // 标签配置
+      tabs: {
+        persist: true,      
+        sync: true,     
+        theme: 'classic',
+        tabComments: true,      
+        tabHeadings: true     
+      },
+      // 标签
+      'flexible-alerts': {
+      note: {
+        label: "指南"
+      },
+      tip: {
+        label: "提示"
+      },
+      warning: {
+        label: "警告"
+      },
+      attention: {
+        label: "注意"
+      }
+    }
+    }
+  </script>
+  <!-- Docsify v4 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <!-- emoji 默认表情-->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
+  <!-- 标签 -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
+  <!-- 文字图标 -->
+  <script src="https://kit.fontawesome.com/57baacee3c.js" crossorigin="anonymous"></script>
+  <!-- 页角 -->
+  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  <!-- 图片缩放 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+  <!-- 复制代码 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
+  <!-- 右上角Github图标 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-corner/dist/docsify-corner.js"></script>
+  <!-- twemoji -->
+  <script src="//cdn.jsdelivr.net/gh/TaQini/docsify-twemoji@master/twemoji.min.js"></script>
+  <!-- 更新标签 -->
+  <script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
+  <!-- GIF 播放 -->
+  <script src="//unpkg.com/docsify-gifcontrol/dist/docsify-gifcontrol.js"></script>
+  <!-- 目录 -->
+  <script src="https://unpkg.com/docsify-toc@1.0.0/dist/toc.js"></script>
+  <!-- 自动添加空格 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-pangu/lib/pangu.min.js"></script>
+  <!-- 选择 -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify-select@1"></script>
+</body>
+</html>
