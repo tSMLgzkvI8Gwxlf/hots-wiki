@@ -31,8 +31,8 @@
 !> 适用于 `PC/Java版=1.12.2`、`Android/iOS版=1.17.X` 向上兼容
 
 ?>
-<button class="button button-pill button-primary"><i class="fab fa-windows"></i><a href="http://pan-yz.chaoxing.com/download/downloadfile?fleid=632321591167062016&puid=146520944" style="color:#FFFFFF;TEXT-DECORATION: none">  Windows 下载</a></button>
-<button class="button button-pill button-primary"><i class="fab fa-android"></i><a href="http://pan-yz.chaoxing.com/download/downloadfile?fleid=628935300946812928&puid=146520944" style="color:#FFFFFF;TEXT-DECORATION: none"> Android 下载</a></button>
+<button class="button button-pill button-primary"><i class="fab fa-windows"></i><a href="http://share.mhotss.top/download/57923cada80edf16/#hUBgPrl_R-_dGsMvJPp-iQ" style="color:#FFFFFF;TEXT-DECORATION: none">  Windows 下载</a></button>
+<button class="button button-pill button-primary"><i class="fab fa-android"></i><a href="http://share.mhotss.top/download/493225b69e1ac4e3/#LuhreCKxpj_TTLnMpIc0tg" style="color:#FFFFFF;TEXT-DECORATION: none"> Android 下载</a></button>
 <button class="button button-pill button-primary"><i class="fab fa-app-store-ios"></i><a href="#/tag/ios.md" style="color:#FFFFFF;TEXT-DECORATION: none"> App Store 下载</a></button>
 
 
