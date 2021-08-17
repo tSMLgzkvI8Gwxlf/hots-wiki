@@ -35,9 +35,8 @@
 <button class="button button-pill button-primary"><i class="fab fa-android"></i><a href="http://share.mhotss.top/download/493225b69e1ac4e3/#LuhreCKxpj_TTLnMpIc0tg" style="color:#FFFFFF;TEXT-DECORATION: none"> Android 下载</a></button>
 <button class="button button-pill button-primary"><i class="fab fa-app-store-ios"></i><a href="#/tag/ios.md" style="color:#FFFFFF;TEXT-DECORATION: none"> App Store 下载</a></button>
 
-> !note 从移动设备上游玩海洋之心
-> 我们只支持`基岩版最新版本`，你可以通过Ip地址 `192.95.43.218:19132` 连接  
-更多内容可以访问 [<i class="fas fa-network-wired"></i> 线路地址](/welcome/ip.md) 页面查找更多信息。
+> [!note|label: 在你的移动设备上游玩社区] 
+> 我们只会支持`基岩版最新版本`，你可以通过IP地址 `192.95.43.218:19132` 连接至社区或访问 [<i class="fas fa-network-wired"></i> 线路地址](/welcome/ip.md) 页面获得更多信息。
 
 
 
