@@ -31,11 +31,47 @@
 <!-- panels:end -->
 
 ### <i class="fas fa-thumbs-up"></i> 加入服务
-!> 目前我们只推出了 `Web端` 不过不要着急，我们正在努力开发其他客户端。如果您的设备支持`浏览器访问`，同样也是可访问进行交流。只要你使用这项服务，任何设备上的加密都是一样的。
+!> <i class="fas fa-user-tag"></i> 在您使用应用登录时，我们并未将登录植入聊天系统。不过您可以通过`手动添加`的方式`加入服务`，你只需要在你所使用的`移动设备或电脑设备`当中，找到`高级功能`或类似的地点，输入加密服务器链接，连接即可。  
+<i class="fas fa-user-alt"></i> 聊天及账号服务器地址: `chat.mhotss.top`
 
 <div align=center>
 <button class="button button-glow button-rounded button-highlight"><i class="fas fa-glasses"></i><a href="https://im.mhotss.top" style="color:#FFFFFF;TEXT-DECORATION: none">  服务官网</a></button>
 <button class="button button-glow button-rounded button-highlight"><i class="fas fa-user-plus"></i><a href="https://im.mhotss.top/#/register" style="color:#FFFFFF;TEXT-DECORATION: none">  注册账号</a></button>
 <button class="button button-glow button-rounded button-highlight"><i class="fas fa-layer-group"></i><a href="https://matrix.to/#/#hots:chat.mhotss.top" style="color:#FFFFFF;TEXT-DECORATION: none">  加入群组</a></button></</div>
 
-?> 我们需要告知您，在您注册并登录后，可在公共聊天室内找到，我们的官方群聊。
+?> 我们需要告知您，在您注册并登录后，可在公共聊天室内找到，我们的官方群聊。如有疑问可发送邮件至 :email:`Admin@mhotss.top` 我们收到后会及时帮助您。
+
+---
+
+### <i class="fas fa-download"></i> 下载应用
+
+<!-- panels:start -->
+
+<!-- div:left-panel -->
+
+<h4><i class="fas fa-mobile"></i>  在移动设备上使用</h3>
+
+<button class="button button-pill button-primary"><i class="fab fa-android"></i><a href="https://f-droid.org/repo/im.vector.app_40101140.apk" style="color:#FFFFFF;TEXT-DECORATION: none">  Android 下载</a></button>
+
+<button class="button button-pill button-primary"><i class="fab fa-app-store-ios"></i><a href="https://apps.apple.com/app/vector/id1083446067" style="color:#FFFFFF;TEXT-DECORATION: none"> App Store  下载</a></button>
+
+<button class="button button-pill button-primary"><i class="fab fa-windows"></i><a href="https://play.google.com/store/apps/details?id=im.vector.app" style="color:#FFFFFF;TEXT-DECORATION: none"> G Play 商店下载</a></button>
+
+
+<!-- div:right-panel -->
+
+<h4><i class="fas fa-desktop"></i>  在电脑设备上使用</h3>
+
+<button class="button button-glow button-rounded button-raised button-primary"><a href="https://packages.riot.im/desktop/install/win32/x64/Element%20Setup.exe" style="color:#FFFFFF;TEXT-DECORATION: none"><i class="fab fa-windows"></i> Windows (64Bit)</a></button>
+
+<button class="button button-glow button-rounded button-raised button-primary"><a href="https://packages.riot.im/desktop/install/macos/Element.dmg" style="color:#FFFFFF;TEXT-DECORATION: none"><i class="fab fa-apple"></i> MacOS 应用下载</a></button>
+
+<button class="button button-glow button-rounded button-raised button-primary"><a href="#/tag/Linux.md" style="color:#FFFFFF;TEXT-DECORATION: none"><i class="fab fa-ubuntu"></i> Ubuntu / Debian</a></button>
+
+<!-- panels:end -->
+
+?> 在你使用 <i class="fab fa-app-store-ios"></i>App Store 时，部分地区不可用，你需要将 `Apple ID` 切换到`美区或其他区`尝试进行下载操作。部分操作或账号提供以及登录可参照 [苹果下载付费应用](/tag/iOS.md) 页面。如果你的设备没有在以上列表内的话，你可以使用浏览器打开网页客户端。点击`导航栏`内的 [聊天社群](https://im.mhotss.top) 快速访问。
+
+
+
+
