@@ -19,7 +19,6 @@
 
 <!-- div:right-panel -->
 
-
-  (...) - Awesome example
+  ![hpic2820.jpg](https://i.loli.net/2021/08/18/wAXhCaOYInJ9yqR.jpg)
 
 <!-- panels:end -->
