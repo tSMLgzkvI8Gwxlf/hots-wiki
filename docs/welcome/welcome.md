@@ -7,7 +7,7 @@
 > 海洋之心社区是由 **Minecraft游戏爱好者** 所组成的 **第三方游戏社区**。我们的成员来自很多地区，但是我们需要让他们始终保持匿名。海洋之心社区是一个绝对 **匿名化** 的社区，这很独特，我们需要您相信这不是自卖自夸，相信您绝对会了解到的。 
 
 > [!note|label:2021年8月 近期更新 ｜ Recent Updates]
-> 海洋之心，全新起航。
+> IM 即时通讯上线，加入与社区沟通。
 ### <i class="fas fa-address-book"></i> 联系我们
 --- 
 **冒险家，我们需要向您告知:**  
@@ -16,7 +16,7 @@
 ➂ 我们提供了群组，他们创建在不同的软件内，我们只会给予您可以使用的群组账号，方便在群组内与大家交流。  
 
 #### :cookie: 联系信息
-<i class="fab fa-qq"></i> 交流群: 12345678 | <i class="fas fa-envelope-open-text"></i> 邮箱: admin@mhotss.top | <i class="fas fa-cubes"></i> 论坛: club.mhotss.top
+<i class="fab fa-qq"></i> 交流群: 我们并未创建 | <i class="fas fa-envelope-open-text"></i> 邮箱: admin@mhotss.top | <i class="fas fa-cubes"></i> 论坛: club.mhotss.top
 
 ### <i class="fas fa-gamepad"></i> 加入游戏
 ---
