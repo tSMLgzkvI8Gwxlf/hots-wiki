@@ -24,25 +24,3 @@ a.button:active {
 	position: relative;
 	top: 1px;
 }
-
-.markdown-section {
-    max-width: 800px;
-}
-
-.markdown-section em {
-    color: palevioletred;
-    font-weight: bold;
-}
-
-.markdown-section mark {
-    background-color: rgb(255, 236, 179);
-    color: rgb(77, 77, 77);;
-}
-
-.markdown-section a {
-    text-decoration: none;
-}
-
-.markdown-section a:hover {
-    text-decoration: underline;
-}
