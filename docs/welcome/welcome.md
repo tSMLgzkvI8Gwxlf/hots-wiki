@@ -38,6 +38,10 @@
 <a href="../images/Register.gif" target="_blank"><img src="../images/Register.gif" width="80%"></a>
 </div>
 
+<div align=center>
+<button class="button button-pill button-primary"><i class="fas fa-sign-in-alt"></i><a href="https://skin.mhotss.top" style="color:#FFFFFF;TEXT-DECORATION: none">  进行 注册/登陆 皮肤站</a></button>
+</div>
+
 #### <i class="fas fa-sort"></i> **参数解释**
 <!-- tabs:start -->
 
