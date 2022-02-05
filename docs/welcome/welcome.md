@@ -28,7 +28,7 @@
 !> 适用于 `PC/Java版=1.12.2`  向上兼容
 
 ?>
-<button class="button button-pill button-primary"><i class="fab fa-windows"></i><a href="http://share.mhotss.top/download/57923cada80edf16/#hUBgPrl_R-_dGsMvJPp-iQ" style="color:#FFFFFF;TEXT-DECORATION: none">  Windows 下载</a></button>
+<button class="button button-pill button-primary"><i class="fab fa-windows"></i><a href="https://anonfiles.com/xcR0R0Fbx9/setup_exe" style="color:#FFFFFF;TEXT-DECORATION: none">  Windows 下载</a></button>
 
 
 #### :lock: **注册游戏**  
