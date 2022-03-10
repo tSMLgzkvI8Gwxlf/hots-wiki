@@ -15,11 +15,6 @@
 > 现 代 战 争 开 放 测 试。
 
 ### <i class="fas fa-address-book"></i> 联系我们
---- 
-**冒险家，我们需要向您告知:**  
-➀ 我们提供很多联系方式，可能会由各种原因，导致联系较晚。  
-➁ 当我们打开与您沟通渠道时，我们时刻关注您回复。  
-➂ 我们提供群组，他们创建在不同软件内，我们只会给予您可以使用的群组账号，方便在群组内与大家交流。  
 
 #### :cookie: 联系信息
 <i class="fab fa-qq"></i> 交流群: 我们并未创建 | <i class="fas fa-envelope-open-text"></i> 邮箱: admin@mhotss.top | <i class="fas fa-cubes"></i> 论坛: club.mhotss.top
@@ -29,6 +24,7 @@
 
 ?>
 <button class="button button-pill button-primary"><i class="fab fa-windows"></i><a href="https://anonfiles.com/xcR0R0Fbx9/setup_exe" style="color:#FFFFFF;TEXT-DECORATION: none">  Windows 下载</a></button>
+
 
 
 #### :lock: **注册游戏**  
