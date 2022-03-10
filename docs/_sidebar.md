@@ -8,4 +8,3 @@
 * **<i class="fas fa-feather-alt"></i> 其他内容**
   * <i class="fas fa-comment-dots"></i> 更新日志
     * [**<i class="fab fa-java"></i>** Java 版 V1.0.0](/other/changelog/java.md)
-    * [<i class="fas fa-mobile-alt"></i> 基岩版 V1.0.0](/other/changelog/bedrock.md)
